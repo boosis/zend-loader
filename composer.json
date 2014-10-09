@@ -17,6 +17,5 @@
 		"psr-0": {
 			"Zend_Loader": "library/"
 		}
-	},
-	"minimum-stability": "dev"
+	}
 }
